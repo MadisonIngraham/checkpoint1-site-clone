@@ -10825,15 +10825,14 @@
  }
 
 .snails-image {
-  background-image: url("https://edmidentity.com/wp-content/uploads/2017/12/Lost-Lands-2017.jpg");
+  background-image: url("https://images.unsplash.com/photo-1543365067-fa127bcb2303?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1970&q=80");
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 100% 100%;
 }
 
 .snails-logo {
   height: 100px;
 }
 
-.background-split {
-  background: linear-gradient(to bottom, black 0%,black 50%,#000000 50%,white 50%,white 100%);  
-}
+
+
