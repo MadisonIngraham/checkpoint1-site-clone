@@ -10831,8 +10831,35 @@
 }
 
 .snails-logo {
-  height: 100px;
+  height: 75px;
 }
 
+.button-position {
+  margin-top: 139px;
+}
+
+.checkers {
+  background-image: url("https://images-na.ssl-images-amazon.com/images/I/81D%2ByCpv0aL._SX466_.jpg");
+}
+
+.owsla-size {
+  width: 350px;
+  height: 200px; 
+}
+
+.ghastly-img {
+height: 400px;
+width: 400px;
+object-fit: cover;
+border-radius: 100%;
+}
+
+.valentino-img {
+height: 400px;
+width: 400px;
+object-fit: cover;
+border-radius: 100%;
+object-position: 100% 0;
+}
 
 
