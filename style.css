@@ -10839,7 +10839,31 @@
   background-image: url("https://images-na.ssl-images-amazon.com/images/I/81D%2ByCpv0aL._SX466_.jpg");
   background-repeat: repeat;
   background-size: contain;
-  height: 700px;
+  height: 100vh;
+}
+
+@media only screen and (max-width: 3200px) {
+  .bottom-img {
+    padding-top: 20vh;
+  }
+}
+
+@media only screen and (max-width: 978px) {
+  .checkers {
+    height: 150vh;
+  }
+  .bottom-img {
+    margin-top: 10vh;
+  }
+}
+
+@media only screen and (max-width: 664px) {
+  .checkers {
+    height: 249vh;
+  }
+  .bottom-img {
+    margin-top: 5%;
+  }
 }
 
 .owsla-size {
